@@ -4,7 +4,11 @@
 
 This project is a GenAI-powered financial assistant designed to improve financial literacy and empower better investment decisions, particularly in regions with low financial literacy rates.  It provides users of all financial backgrounds with personalized guidance, investment product discovery, and tools to manage their finances effectively. By leveraging the power of Generative AI, we aim to bridge the financial literacy gap and make informed investing accessible to everyone for personal and educational use.
 
-**This project is intended for personal, non-commercial use and educational purposes. Contributions are welcome to improve the project for the community.**
+### This project is intended for personal, non-commercial use and educational purposes. Contributions are welcome to improve the project for the community.
+
+## Architechture
+![image](https://github.com/user-attachments/assets/5965a526-afcc-4d33-bfa9-5d66b646028b)
+
 
 ## Features
 
